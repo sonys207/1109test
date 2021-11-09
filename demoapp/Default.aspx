@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is a 567buzhidao tony/ning application
+            This is a gan1109 tony/ning application
         </div>
     </form>
 </body>
