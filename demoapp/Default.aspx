@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is a a a tony application
+            This is a a a tony/ning application
         </div>
     </form>
 </body>
